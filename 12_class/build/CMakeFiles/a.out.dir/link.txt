@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/a.out.dir/main.cpp.o -o a.out  -Wl,-rpath,/home/t0101u7/CMAKE_Tutorial/Practise /home/t0101u7/CMAKE_Tutorial/Practise/libcalc.so 

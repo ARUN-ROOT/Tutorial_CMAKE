@@ -1,0 +1,4 @@
+/home/t0101u7/CMAKE_Tutorial/08_class/build/CMakeFiles/calc.dir
+/home/t0101u7/CMAKE_Tutorial/08_class/build/CMakeFiles/result.dir
+/home/t0101u7/CMAKE_Tutorial/08_class/build/CMakeFiles/edit_cache.dir
+/home/t0101u7/CMAKE_Tutorial/08_class/build/CMakeFiles/rebuild_cache.dir

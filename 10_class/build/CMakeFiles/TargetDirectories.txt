@@ -1,0 +1,3 @@
+/home/t0101u7/CMAKE_Tutorial/10_class/build/CMakeFiles/a.out.dir
+/home/t0101u7/CMAKE_Tutorial/10_class/build/CMakeFiles/edit_cache.dir
+/home/t0101u7/CMAKE_Tutorial/10_class/build/CMakeFiles/rebuild_cache.dir

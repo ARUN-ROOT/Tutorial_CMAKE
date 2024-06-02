@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/result.dir/main.cpp.o -o result  -Wl,-rpath,/home/t0101u7/CMAKE_Tutorial/03_class/build libcalc.so 
