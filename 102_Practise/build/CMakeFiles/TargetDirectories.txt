@@ -1,0 +1,6 @@
+/home/t0101u7/CMAKE_Tutorial/Practise/build/CMakeFiles/a.out.dir
+/home/t0101u7/CMAKE_Tutorial/Practise/build/CMakeFiles/edit_cache.dir
+/home/t0101u7/CMAKE_Tutorial/Practise/build/CMakeFiles/rebuild_cache.dir
+/home/t0101u7/CMAKE_Tutorial/Practise/build/common/CMakeFiles/calc.dir
+/home/t0101u7/CMAKE_Tutorial/Practise/build/common/CMakeFiles/edit_cache.dir
+/home/t0101u7/CMAKE_Tutorial/Practise/build/common/CMakeFiles/rebuild_cache.dir
